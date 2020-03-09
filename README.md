@@ -10,11 +10,11 @@ Segue os comandos SQL para criar a base de dados:
 ```
 CREATE ROLE desafio SUPERUSER CREATEDB CREATEROLE NOINHERIT LOGIN PASSWORD 'desafio';
 
-CREATE DATABASE desafio3
+CREATE DATABASE desafio
 OWNER = desafio;
 ```
 
-1- Relizar uma atualizacao do projeto; Clicar com botao direito do mouse em projetoWeb > Mavem > Update Project. Na janela que sera exibida  marcar a opção "Force Update of Snapshots/Releases" e apertar em OK.
+1- Relizar uma atualizacao do projeto; Clicar com botao direito do mouse em projetoWeb > Mavem > Update Project. Na janela que será exibida  marcar a opção "Force Update of Snapshots/Releases" e apertar em OK.
 
 2- Startar a aplicação ProjetoWebApplication.java (Run As) como Java Application.
 
@@ -26,4 +26,4 @@ Joinfaces | Java | Spring Boot | JSF | Tomcat | Spring Framework |
 ----------|------|-------------|-----|--------|------------------|
 `4.1.5`   |`1.8` |`2.2.5`      |`2.3`|`9.0`   |`5.2`             |
 
-Guia de referencia utilizado (https://docs.joinfaces.org/master-SNAPSHOT/reference/).
+Guia de referência utilizado (https://docs.joinfaces.org/master-SNAPSHOT/reference/).
