@@ -15,10 +15,12 @@ OWNER = desafio;
 ```
 
 1- Relizar uma atualizacao do projeto; Clicar com botao direito do mouse em projetoWeb > Mavem > Update Project. Na janela que sera exibida  marcar a opção "Force Update of Snapshots/Releases" e apertar em OK.
+
 2- Startar a aplicação ProjetoWebApplication.java (Run As) como Java Application.
+
 3- Abrir o navegador web com o seguinte endereco, "http://localhost:8080/produto.xhtml".
 
-## Características do Sistema
+# Características do Sistema
 
 Joinfaces | Java | Spring Boot | JSF | Tomcat | Spring Framework |
 ----------|------|-------------|-----|--------|------------------|
