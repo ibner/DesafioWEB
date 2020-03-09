@@ -6,8 +6,8 @@ Exemplo de projeto web utilizando JSF, JPA, Spring Boot, Spring MVC, PrimeFaces,
 
 OBS: Antes de realizar o processo abaixo, é necessário ter um banco criado.
 
-```
 Segue os comandos SQL para criar a base de dados:
+```
 CREATE ROLE desafio SUPERUSER CREATEDB CREATEROLE NOINHERIT LOGIN PASSWORD 'desafio';
 
 CREATE DATABASE desafio3
