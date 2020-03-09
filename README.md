@@ -20,8 +20,8 @@ OWNER = desafio;
 
 ## Características do Sistema
 
-Joinfaces | Java | Spring Boot | JSF
-----------|------|-------------|-----
-`4.1.5`   |`1.8` |`2.2.5`|`2.0` to `2.3`
+Joinfaces | Java | Spring Boot | JSF | Tomcat | Spring Framework |
+----------|------|-------------|-----|--------|------------------|
+`4.1.5`   |`1.8` |`2.2.5`      |`2.3`|`9.0`   |`5.2`             |
 
-Take a look at [Reference Guide](https://docs.joinfaces.org/master-SNAPSHOT/reference/) to see JoinFaces features: Starters, Servlet-Context Init Parameters, JSF and CDI scope-annotations support and Spring Security JSF Facelet Tag support.
+Guia de referencia utilizado (https://docs.joinfaces.org/master-SNAPSHOT/reference/).
