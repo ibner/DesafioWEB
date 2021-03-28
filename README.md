@@ -18,7 +18,7 @@ OWNER = desafio;
 
 2- Startar a aplicação ProjetoWebApplication.java (Run As) como Java Application.
 
-3- Abrir o navegador web com o seguinte endereco, "http://localhost:8080/produto.xhtml".
+3- Abrir o navegador web com o seguinte endereco, "http://localhost:8080/tarefa.xhtml".
 
 # Características do Sistema
 
