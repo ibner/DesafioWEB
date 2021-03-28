@@ -39,7 +39,7 @@ public class ProdutoController {
 		produtoRepository.deleteById(produto.getId());
 	}
 	
-	@RequestMapping("/")
+	@RequestMapping("/produto")
 	public void salvar() {
 		produtoRepository.save(produto);
 		produto = new Produto();
